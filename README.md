@@ -13,7 +13,7 @@ or change the sha-bang at the top of the file and run it however you like.
 A window should then spawn.
 
 ## openCL (optional)
-if you want to use the kernel, you will need pyopencl. Install it with
+the kernel does not produce a good fluid, but if you want to run it, you will need pyopencl. Install it with
 ```
 pip install pyopencl
 ```
